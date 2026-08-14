@@ -26,7 +26,7 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 02 · Pirms maksājuma pārbaudi saņēmēju
 
-![02 - Pirms maksājuma pārbaudi saņēmēju](./assets/02-pirms-maksajuma-parbaudi-sanemeju.png)
+![02 - Pirms maksājuma pārbaudi saņēmēju](./assets/02-parbaudi-maksajuma-sanemeju.png)
 
 ### 03 · Steidzamība nozīmē pauzi
 
