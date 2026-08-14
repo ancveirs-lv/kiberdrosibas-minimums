@@ -14,7 +14,7 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ## PDF
 
-**[Lejupielādēt pilno PDF - "Kiberdrošības minimums ikvienam"](./downloads/kiberdrosibas-minimums-ikvienam.pdf)**
+**[Lejupielādēt pilno PDF - "Kiberdrošības minimums ikvienam"](./downloads/kiberdrosibas-minimums-25-slides-final.pdf)**
 
 ---
 
@@ -50,7 +50,7 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 07 · Nekad nevienam nesūti paroles, PIN vai vienreizējos kodus
 
-![07 - Nekad nevienam nesūti paroles, PIN vai vienreizējos kodus](./assets/07-nesuti-paroles-pin-vai-vienreizejos-kodus.png)
+![07 - Nekad nevienam nesūti paroles, PIN vai vienreizējos kodus](./assets/07-nesuti-paroles-pin-vai-kodus.png)
 
 ### 08 · Katram kontam sava parole
 
@@ -66,19 +66,19 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 11 · Ieslēdz Passkey vai divu soļu apstiprināšanu
 
-![11 - Ieslēdz Passkey vai divu soļu apstiprināšanu](./assets/11-iesledz-passkey-vai-divu-solu-apstiprinasanu.png)
+![11 - Ieslēdz Passkey vai divu soļu apstiprināšanu](./assets/11-iesledz-passkey-vai-divus-solus.png)
 
 ### 12 · Īpaši sargā galveno e-pastu
 
-![12 - Īpaši sargā galveno e-pastu](./assets/12-ipasi-sarga-galveno-e-pastu.png)
+![12 - Īpaši sargā galveno e-pastu](./assets/12-sarga-galveno-e-pastu.png)
 
 ### 13 · Pārskati svarīgo kontu drošības iestatījumus
 
-![13 - Pārskati svarīgo kontu drošības iestatījumus](./assets/13-parskati-svarigo-kontu-drosibas-iestatijumus.png)
+![13 - Pārskati svarīgo kontu drošības iestatījumus](./assets/13-parskati-drosibas-iestatijumus.png)
 
 ### 14 · Atvieno vecās ierīces un nevajadzīgas piekļuves
 
-![14 - Atvieno vecās ierīces un nevajadzīgas piekļuves](./assets/14-atvieno-vecas-ierices-un-nevajadzigas-piekluves.png)
+![14 - Atvieno vecās ierīces un nevajadzīgas piekļuves](./assets/14-atvieno-vecas-ierices.png)
 
 ---
 
@@ -90,15 +90,15 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 16 · Regulāri atjaunini ierīces un programmas
 
-![16 - Regulāri atjaunini ierīces un programmas](./assets/16-regulari-atjaunini-ierices-un-programmas.png)
+![16 - Regulāri atjaunini ierīces un programmas](./assets/16-atjaunini-ierices-un-programmas.png)
 
 ### 17 · Pārbaudi, vai ierīces aizsardzība ir ieslēgta
 
-![17 - Pārbaudi, vai ierīces aizsardzība ir ieslēgta](./assets/17-parbaudi-vai-ierices-aizsardziba-ir-ieslegta.png)
+![17 - Pārbaudi, vai ierīces aizsardzība ir ieslēgta](./assets/17-parbaudi-ierices-aizsardzibu.png)
 
 ### 18 · Sargā mājas Wi-Fi un rūteri
 
-![18 - Sargā mājas Wi-Fi un rūteri](./assets/18-sarga-majas-wi-fi-un-ruteri.png)
+![18 - Sargā mājas Wi-Fi un rūteri](./assets/18-sarga-wi-fi-un-ruteri.png)
 
 ### 19 · Veido rezerves kopijas
 
@@ -106,7 +106,7 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 20 · Papildini aizsardzību ar CERT.LV/NIC.LV DNS ugunsmūri
 
-![20 - Papildini aizsardzību ar CERT.LV/NIC.LV DNS ugunsmūri](./assets/20-cert-lv-nic-lv-dns-ugunsmuris.png)
+![20 - Papildini aizsardzību ar CERT.LV/NIC.LV DNS ugunsmūri](./assets/20-aktivize-dns-ugunsmuri.png)
 
 ---
 
@@ -114,19 +114,19 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 21 · Neatver negaidītus vai aizdomīgus pielikumus un QR kodus
 
-![21 - Neatver negaidītus vai aizdomīgus pielikumus un QR kodus](./assets/21-neatver-negaiditus-vai-aizdomigus-pielikumus-un-qr-kodus.png)
+![21 - Neatver negaidītus vai aizdomīgus pielikumus un QR kodus](./assets/21-parbaudi-pielikumus-un-qr-kodus.png)
 
 ### 22 · Neinstalē programmas pēc sveša cilvēka norādes
 
-![22 - Neinstalē programmas pēc sveša cilvēka norādes](./assets/22-neinstale-programmas-pec-svesa-cilveka-norades.png)
+![22 - Neinstalē programmas pēc sveša cilvēka norādes](./assets/22-neinstale-pec-svesa-cilveka-norades.png)
 
 ### 23 · Glīts dizains nepierāda uzticamību
 
-![23 - Glīts dizains nepierāda uzticamību](./assets/23-glits-dizains-nepierada-uzticamibu.png)
+![23 - Glīts dizains nepierāda uzticamību](./assets/23-glits-dizains-nav-pieradijums.png)
 
 ### 24 · Sargies no pārāk labiem piedāvājumiem un emocionāliem stāstiem
 
-![24 - Sargies no pārāk labiem piedāvājumiem un emocionāliem stāstiem](./assets/24-sargies-no-parak-labiem-piedavajumiem-un-emocionaliem-stastiem.png)
+![24 - Sargies no pārāk labiem piedāvājumiem un emocionāliem stāstiem](./assets/24-sargies-no-mantojuma-un-romantikas-krapsanam.png)
 
 ---
 
@@ -134,7 +134,7 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 25 · Ziņo un rīkojies uzreiz
 
-![25 - Ziņo un rīkojies uzreiz](./assets/25-zino-un-rikojies-uzreiz.png)
+![25 - Ziņo un rīkojies uzreiz](./assets/25-zino-par-krapniecibu.png)
 
 ---
 
