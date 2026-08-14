@@ -34,7 +34,7 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 04 · Aizdomīgu pieprasījumu pārbaudi citā veidā
 
-![04 - Aizdomīgu pieprasījumu pārbaudi citā veidā](./assets/04-aizdomigu-pieprasijumu-parbaudi-cita-veida.png)
+![04 - Aizdomīgu pieprasījumu pārbaudi citā veidā](./assets/04-parbaudi-cita-veida.png)
 
 ### 05 · Ziņa nepierāda, kas to sūtījis
 
