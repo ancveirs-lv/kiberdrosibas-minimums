@@ -38,7 +38,7 @@ Materiāla mērķis nav mācīt analizēt katru iespējamo uzbrukuma paņēmienu
 
 ### 05 · Ziņa nepierāda, kas to sūtījis
 
-![05 - Ziņa nepierāda, kas to sūtījis](./assets/05-zina-nepierada-kas-to-sutijis.png)
+![05 - Ziņa nepierāda, kas to sūtījis](./assets/05-zina-nepierada-sutitaju.png)
 
 ### 06 · Ja šaubies - vispirms pārbaudi
 
