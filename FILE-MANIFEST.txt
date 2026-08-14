@@ -2,7 +2,7 @@ README.md
 downloads/kiberdrosibas-minimums-ikvienam.pdf
 assets/00-cover.png
 assets/01-svarigas-darbibas-sac-pats.png
-assets/02-pirms-maksajuma-parbaudi-sanemeju.png
+assets/02-parbaudi-maksajuma-sanemeju.png
 assets/03-steidzamiba-nozime-pauzi.png
 assets/04-aizdomigu-pieprasijumu-parbaudi-cita-veida.png
 assets/05-zina-nepierada-kas-to-sutijis.png
