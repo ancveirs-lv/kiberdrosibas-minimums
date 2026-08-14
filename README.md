@@ -161,7 +161,7 @@ Materiāls ir latviešu valodā un paredzēts personīgās kiberdrošības un sa
 
 ## Autors
 
-**Zigmārs Ancveirs**
+**[Zigmārs Ancveirs](https://github.com/ancveirs-lv)**
 
 Technology Leader · Software Engineer · Cybersecurity & Ethical Hacking  
 FinTech · RegTech · CivTech · Cloud · Data · AI
