@@ -4,8 +4,8 @@ assets/00-cover.png
 assets/01-svarigas-darbibas-sac-pats.png
 assets/02-parbaudi-maksajuma-sanemeju.png
 assets/03-steidzamiba-nozime-pauzi.png
-assets/04-aizdomigu-pieprasijumu-parbaudi-cita-veida.png
-assets/05-zina-nepierada-kas-to-sutijis.png
+assets/04-parbaudi-cita-veida.png
+assets/05-zina-nepierada-sutitaju.png
 assets/06-ja-saubies-vispirms-parbaudi.png
 assets/07-nesuti-paroles-pin-vai-vienreizejos-kodus.png
 assets/08-katram-kontam-sava-parole.png
